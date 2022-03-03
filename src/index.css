@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.css-1tywbcj{
+    width: 120px;
+    height:24px;
+    fill: rgb(240, 185, 11);
+}
+
+.container{
+    transform: translateX(0);
+}
